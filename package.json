@@ -1,0 +1,26 @@
+{
+  "name": "openstack-backup",
+  "version": "1.0.3",
+  "description": "",
+  "main": "build/openstack.js",
+  "author": "Wyatt Johnson",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "async": "~0.8.0",
+    "log4node": "^0.1.6",
+    "mandrill-api": "^1.0.40",
+    "moment": "^2.6.0",
+    "mongodb": "~1.4.3",
+    "optimist": "^0.6.1",
+    "parsel": "^0.2.0",
+    "pkgcloud": "^0.9.6",
+    "request": "~2.34.0",
+    "sleep": "^1.1.8",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "gulp-coffee": "^2.0.1"
+  }
+}
